@@ -1,5 +1,5 @@
 ---
-layout: list
+layout: post
 title : do_everthing 
 menu: true
 
