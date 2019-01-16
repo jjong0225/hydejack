@@ -1,5 +1,5 @@
 ---
-layout: blog
+layout: list
 title : do_everthing 
 menu: true
 
