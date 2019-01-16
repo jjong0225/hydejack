@@ -117,7 +117,11 @@ defaults:
     values:
       seo:
         type:          WebPage
-
+  - scope:
+      type:            2019-01-16-example1.md
+    values:
+      menu: true
+      order: 1
 
 # 3rd Party Integrations
 # ----------------------------------------------------------------------------------------
